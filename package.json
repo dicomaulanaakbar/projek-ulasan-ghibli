@@ -1,0 +1,24 @@
+{
+  "name": "projek-ulasan-ghibli",
+  "version": "1.0.0",
+  "description": "Projek Ghibli",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dicomaulanaakbar/projek-ulasan-ghibli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dicomaulanaakbar/projek-ulasan-ghibli/issues"
+  },
+  "homepage": "https://github.com/dicomaulanaakbar/projek-ulasan-ghibli#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
